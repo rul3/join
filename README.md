@@ -1,6 +1,6 @@
 <p id="top"><p>
 
-## **_Be Part of Fork-it_**
+## _Be Part of_ **Fork-it**
 
 You can be part of this organization, just need to follow the Instructions below, after you make a pull request we will marge your request, and invite you to join .
 
