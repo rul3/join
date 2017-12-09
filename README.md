@@ -2,7 +2,11 @@
 
 ## **_Be Part of Fork-it_**
 
-You can be part of this organization, just need to follow the Instructions below, after you make a pull request we will marge your request, and invite you to join [Fork-it](https://github.com/fork-it/), you will recive an email from Github with the request, just press accept and you be part of us.
+You can be part of this organization, just need to follow the Instructions below, after you make a pull request we will marge your request, and invite you to join .
+
+You will recive an email from Github with the request, just press accept and you be part of us. 
+
+Also you can visit the [Fork-it](https://github.com/fork-it/) page and you will see the request at the top, just press accept and you be part of us.
 
 Be sure to follow correctly to make it easy for us to make you part of the team.
 
