@@ -13,6 +13,10 @@ Fork this project and add your username + profile link to the [Fork-it](https://
 [Fork-it-User](https://github.com/Fork-it-User)
 ```
 
+### Show Organization on Your Bio
+
+Visit this [article](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) to learn how to publice or hide an organization.
+
 ### Joing Fork-it ...
 
 1. [19cah](https://github.com/19cah)
