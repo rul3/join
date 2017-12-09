@@ -7,6 +7,8 @@ You can be part of this organization, just need to follow the Instructions below
 Be sure to follow correctly to make it easy for us to make you part of the team.
 
 ### Instructions
+## Open an issue
+To join Fork-it Organization, please open an [issue](https://github.com/fork-it/join/issues/new?title=Please%20add%20me%20to%20the%20Fork%20it&body=Thank%20you). Note: you must have a GitHub account to open a issue (and further actions). You can create one for free [here](https://github.com/signup).
 Fork this project and add your username + profile link to the [Fork-it](https://github.com/fork-it/join) list below, then make a pull request to add your name to this repository like so:
 
 ```markdown
