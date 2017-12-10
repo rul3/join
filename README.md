@@ -26,11 +26,11 @@ Visit this [article](https://help.github.com/articles/publicizing-or-hiding-orga
 
 ### Joing Fork-it ...
 
-1. [19cah](https://github.com/19cah)
-2. [Fork-it-User](https://github.com/Fork-it-User)
-3. [3z9](https://github.com/3z9)
-4. [y8c](https://github.com/y8c)
-5. [By-A](https://github.com/by-a)
+- [x] [19cah](https://github.com/19cah)
+- [x] [Fork-it-User](https://github.com/Fork-it-User)
+- [x] [3z9](https://github.com/3z9)
+- [x] [y8c](https://github.com/y8c)
+- [x] [By-A](https://github.com/by-a)
 
 <html>
 	<p align="center">
