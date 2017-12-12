@@ -31,6 +31,7 @@ Visit this [article](https://help.github.com/articles/publicizing-or-hiding-orga
 - [x] [3z9](https://github.com/3z9)
 - [x] [y8c](https://github.com/y8c)
 - [x] [By-A](https://github.com/by-a)
+- [x] [50s](https://github.com/50s)
 
 <html>
 	<p align="center">
