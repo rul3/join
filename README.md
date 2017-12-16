@@ -40,7 +40,7 @@ Visit this [article](https://help.github.com/articles/publicizing-or-hiding-orga
 	    <a href="#top">Top ⬆️ </a>
 	</p>
 	<p align="center">
-	    <img src="assets/fork/fork50px.png" alt="Fork it">
+	    <img src="https://raw.githubusercontent.com/fork-it/weFork/master/assets/fork/fork50px.png" alt="Fork it">
 	</p>
 	<p align="center">
 	    <small>2017 &copy let's Fork It. </small>
